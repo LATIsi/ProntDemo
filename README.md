@@ -45,3 +45,15 @@
 <Br>
 
 이러한 내용들을 배우며 활용할수있음.
+
+<br>
+
+---
+
+<br>
+
+### 참고한 홈페이지 목록
+
+#### [Git Commit Message Style Guide - 개인/팀을 위한 커밋 메시지 스타일 가이드](https://blog.munilive.com/posts/my-git-commit-guide.html)
+
+<br>
